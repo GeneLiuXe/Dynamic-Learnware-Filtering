@@ -1,0 +1,5 @@
+# Beijing Multi-Site Air-Quality Data Data Set
+
+This data set includes hourly air pollutants data from 12 nationally-controlled air-quality monitoring sites. The air-quality data are from the Beijing Municipal Environmental Monitoring Center. The meteorological data in each air-quality site are matched with the nearest weather station from the China Meteorological Administration. The time period is from March 1st, 2013 to February 28th, 2017. Missing data are denoted as NA. [link](https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data) [code](https://www.kaggle.com/code/alibulut1/predict-pollution-of-beijing-with-regression-model)
+
+Paper: [Cautionary tales on air-quality improvement in Beijing](https://scholar.googleusercontent.com/scholar.bib?q=info:UE1w9FAzFvUJ:scholar.google.com/&output=citation&scisdr=ClHp0P-SELLOsMwBSFM:AFWwaeYAAAAAZ3UHUFNYF1D6-JtTW_dEW5rNBOE&scisig=AFWwaeYAAAAAZ3UHUDQJKCrXlklNEypg6CtGWpA&scisf=4&ct=citation&cd=-1&hl=zh-CN)
